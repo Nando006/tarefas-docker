@@ -20,7 +20,7 @@ Siga os comandos abaixo na ordem exata para preparar o ambiente e subir a aplica
 - DB_NAME=tarefasdb
 - PORT=3001  
 
-> Observação: Não esqueça de configurar o postres da sua máquina e criar o banco de dados tarefasdb, quando você inicializar o projeto pela primeira vez a tabela tarefas será criada automaticamente.
+> Observação: Não esqueça de configurar o postgres da sua máquina e criar o banco de dados tarefasdb, quando você inicializar o projeto pela primeira vez a tabela tarefas será criada automaticamente.
 
 > Atenção: Caso esteja configurado com alguma credencial diferente, mude para a correta para dar certo
 
