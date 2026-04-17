@@ -55,6 +55,10 @@ Siga os comandos abaixo na ordem exata para preparar o ambiente e subir a aplica
 > Observação: Caso rode o backend antes do banco de dados executar o comando: 
 <pre> docker restart backend </pre>
 
+## 🖥️ Feito isso, Acesse:
+- Interface: Abra no navegador http://localhost:5173
+- Status do Banco: Acesse http://localhost:3001/db-status para confirmar a conexão.
+
 
 
 
