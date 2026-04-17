@@ -1,3 +1,5 @@
+# Esse arquivo coloca na raiz da pasta frontend
+
 # Image do node
 FROM node:22-alpine
 

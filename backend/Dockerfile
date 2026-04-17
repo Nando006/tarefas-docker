@@ -1,3 +1,5 @@
+# Esse arquivo coloca na pasta raiz de backend
+
 # usa uma imagem oficial do Node.JS
 FROM node:22-alpine
 
