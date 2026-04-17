@@ -58,7 +58,7 @@ Aqui está um exemplo de como seu arquivo `.env` deve ficar:
 # --- Configurações do Banco de Dados PostgreSQL ---
 # Endereço do seu servidor de banco de dados.
 # Se estiver rodando na sua própria máquina, use 'localhost' ou '127.0.0.1'.
-DB_HOST=localhost
+DB_HOST=127.0.0.1
 
 # Porta padrão do PostgreSQL. Mantenha 5432, a menos que você tenha alterado.
 DB_PORT=5432
@@ -68,7 +68,7 @@ DB_PORT=5432
 DB_USER=postgres
 
 # A senha que você DEFINIU para o usuário acima durante a instalação do PostgreSQL.
-DB_PASSWORD=minhaSenhaSuperSecreta123
+DB_PASSWORD=123
 
 # O nome exato do banco de dados que você criou no Passo 3.
 DB_NAME=tarefasdb
