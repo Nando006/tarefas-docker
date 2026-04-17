@@ -5,7 +5,7 @@
 - Vinicius Santos Pereira - 2310071
 - Rachel Vieira Ramos Alves - 2310775
 - Clara Luz Lopes Dias da Cruz - 2310133
-- Yuri
+- Yuri Peixoto de Souza - 2310103
 
 ## 🚀 Como Rodar o Projeto (Passo a Passo)
 Siga os comandos abaixo na ordem exata para preparar o ambiente e subir a aplicação
